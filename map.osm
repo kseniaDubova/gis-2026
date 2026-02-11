@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="openstreetmap-cgimap 2.1.0 (1885063 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
- <bounds minlat="53.2760200" minlon="50.8548500" maxlat="53.2879000" maxlon="50.8750200"/>
+<osm version="0.6" generator="openstreetmap-cgimap 2.1.0 (383548 spike-06.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="53.2761700" minlon="50.8547700" maxlat="53.2880300" maxlon="50.8746400"/>
  <node id="1050164132" visible="true" version="2" changeset="36142157" timestamp="2015-12-24T11:32:00Z" user="anyrain" uid="3071186" lat="53.2746279" lon="50.8572333"/>
  <node id="1050164238" visible="true" version="1" changeset="6711316" timestamp="2010-12-19T22:06:24Z" user="atgnclk" uid="164645" lat="53.2610484" lon="50.8517911"/>
  <node id="1050164255" visible="true" version="2" changeset="36142157" timestamp="2015-12-24T11:32:00Z" user="anyrain" uid="3071186" lat="53.2771850" lon="50.8578022"/>
@@ -275,6 +275,12 @@
  <node id="6598452053" visible="true" version="1" changeset="72045092" timestamp="2019-07-09T09:05:50Z" user="lamax" uid="1860634" lat="53.2914512" lon="50.8592423"/>
  <node id="6598452054" visible="true" version="2" changeset="161843363" timestamp="2025-01-28T05:01:12Z" user="maxlax" uid="15972813" lat="53.2933138" lon="50.8604480"/>
  <node id="6598452055" visible="true" version="1" changeset="72045092" timestamp="2019-07-09T09:05:50Z" user="lamax" uid="1860634" lat="53.2941777" lon="50.8612913"/>
+ <node id="6598472488" visible="true" version="1" changeset="72045092" timestamp="2019-07-09T09:05:50Z" user="lamax" uid="1860634" lat="53.2880530" lon="50.8545971"/>
+ <node id="6598472489" visible="true" version="1" changeset="72045092" timestamp="2019-07-09T09:05:50Z" user="lamax" uid="1860634" lat="53.2882164" lon="50.8546713"/>
+ <node id="6598472490" visible="true" version="1" changeset="72045092" timestamp="2019-07-09T09:05:50Z" user="lamax" uid="1860634" lat="53.2881835" lon="50.8548737"/>
+ <node id="6598472491" visible="true" version="1" changeset="72045092" timestamp="2019-07-09T09:05:50Z" user="lamax" uid="1860634" lat="53.2881022" lon="50.8548368"/>
+ <node id="6598472492" visible="true" version="1" changeset="72045092" timestamp="2019-07-09T09:05:50Z" user="lamax" uid="1860634" lat="53.2881057" lon="50.8548150"/>
+ <node id="6598472493" visible="true" version="1" changeset="72045092" timestamp="2019-07-09T09:05:50Z" user="lamax" uid="1860634" lat="53.2880237" lon="50.8547777"/>
  <node id="6598472504" visible="true" version="1" changeset="72045092" timestamp="2019-07-09T09:05:50Z" user="lamax" uid="1860634" lat="53.2861556" lon="50.8536414"/>
  <node id="6598472505" visible="true" version="1" changeset="72045092" timestamp="2019-07-09T09:05:50Z" user="lamax" uid="1860634" lat="53.2860374" lon="50.8547403"/>
  <node id="6598472506" visible="true" version="1" changeset="72045092" timestamp="2019-07-09T09:05:50Z" user="lamax" uid="1860634" lat="53.2860521" lon="50.8548019"/>
@@ -400,7 +406,6 @@
  <node id="8048157031" visible="true" version="1" changeset="93076274" timestamp="2020-10-26T18:50:50Z" user="Pucpik" uid="11331054" lat="53.2937705" lon="50.8472634"/>
  <node id="8048157032" visible="true" version="1" changeset="93076274" timestamp="2020-10-26T18:50:50Z" user="Pucpik" uid="11331054" lat="53.2925981" lon="50.8541937"/>
  <node id="8048157033" visible="true" version="1" changeset="93076274" timestamp="2020-10-26T18:50:50Z" user="Pucpik" uid="11331054" lat="53.2962379" lon="50.8558749"/>
- <node id="9345553399" visible="true" version="1" changeset="115040195" timestamp="2021-12-17T07:47:30Z" user="Деревяшкин Олег Анатольевич" uid="14652093" lat="53.2762168" lon="50.8586070"/>
  <node id="9345557412" visible="true" version="1" changeset="115040257" timestamp="2021-12-17T07:48:39Z" user="Деревяшкин Олег Анатольевич" uid="14652093" lat="53.2806116" lon="50.8549955"/>
  <node id="9345560281" visible="true" version="1" changeset="115040293" timestamp="2021-12-17T07:49:21Z" user="Деревяшкин Олег Анатольевич" uid="14652093" lat="53.2782583" lon="50.8610548"/>
  <node id="11768114551" visible="true" version="2" changeset="158897845" timestamp="2024-11-08T14:19:34Z" user="Руслан Т" uid="12947635" lat="53.2655089" lon="50.8565124"/>
@@ -553,18 +558,9 @@
  <node id="13541398665" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2873736" lon="50.8574443"/>
  <node id="13541398666" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2869278" lon="50.8572845"/>
  <node id="13541398667" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2869559" lon="50.8590128"/>
- <node id="13541398668" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2867727" lon="50.8596374"/>
  <node id="13541398669" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2866959" lon="50.8600726"/>
  <node id="13541398670" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2878208" lon="50.8568574"/>
- <node id="13541398671" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2869364" lon="50.8578163"/>
- <node id="13541398672" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2869371" lon="50.8578594"/>
- <node id="13541398673" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2871418" lon="50.8576178"/>
- <node id="13541398674" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2876484" lon="50.8571809"/>
- <node id="13541398675" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2865792" lon="50.8593087"/>
- <node id="13541398676" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2864371" lon="50.8594741"/>
  <node id="13541398677" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2861711" lon="50.8595545"/>
- <node id="13541398678" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2863037" lon="50.8594676"/>
- <node id="13541398679" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2867474" lon="50.8591564"/>
  <node id="13541398680" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2862906" lon="50.8594762"/>
  <node id="13541398681" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2763206" lon="50.8740818"/>
  <node id="13541398682" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2765663" lon="50.8753123"/>
@@ -612,45 +608,13 @@
  <node id="13541401024" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2865928" lon="50.8713641"/>
  <node id="13541401025" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2866090" lon="50.8713730"/>
  <node id="13541401026" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2839710" lon="50.8732625"/>
- <node id="13541401027" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2842887" lon="50.8725300"/>
- <node id="13541401028" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2844885" lon="50.8723127"/>
- <node id="13541401029" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2846976" lon="50.8721683"/>
- <node id="13541401030" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2848101" lon="50.8720562"/>
- <node id="13541401031" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2850295" lon="50.8720087"/>
- <node id="13541401032" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2852710" lon="50.8718857"/>
- <node id="13541401033" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2854934" lon="50.8716864"/>
- <node id="13541401034" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2856942" lon="50.8713949"/>
- <node id="13541401035" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2859009" lon="50.8709754"/>
- <node id="13541401036" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2860866" lon="50.8705497"/>
- <node id="13541401037" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2861722" lon="50.8703378"/>
- <node id="13541401038" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2863716" lon="50.8697634"/>
- <node id="13541401039" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2863286" lon="50.8689680"/>
- <node id="13541401040" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2864446" lon="50.8681690"/>
- <node id="13541401041" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2865396" lon="50.8677688"/>
- <node id="13541401042" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2866834" lon="50.8676196"/>
- <node id="13541401043" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2869347" lon="50.8670769"/>
- <node id="13541401044" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2876864" lon="50.8661553"/>
  <node id="13541401045" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2878720" lon="50.8657407"/>
- <node id="13541401046" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2862397" lon="50.8700422"/>
- <node id="13541401047" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2863531" lon="50.8693883"/>
- <node id="13541401048" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2864623" lon="50.8687020"/>
- <node id="13541401049" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2867694" lon="50.8684894"/>
- <node id="13541401050" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2872926" lon="50.8680002"/>
- <node id="13541401051" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2874625" lon="50.8674812"/>
- <node id="13541401052" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2875943" lon="50.8662682"/>
- <node id="13541401053" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2863777" lon="50.8688145"/>
  <node id="13541401054" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2876121" lon="50.8671198"/>
- <node id="13541401055" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2874809" lon="50.8673121"/>
- <node id="13541401056" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2862935" lon="50.8706721"/>
- <node id="13541401057" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2863640" lon="50.8709894"/>
- <node id="13541401058" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2861964" lon="50.8705349"/>
- <node id="13541401059" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2865007" lon="50.8709495"/>
  <node id="13541401060" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2879944" lon="50.8607025"/>
  <node id="13541401061" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2872049" lon="50.8605365"/>
  <node id="13541401062" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2869550" lon="50.8601688"/>
  <node id="13541401063" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2870683" lon="50.8603953"/>
  <node id="13541401064" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2878268" lon="50.8579519"/>
- <node id="13541401065" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2869343" lon="50.8576872"/>
  <node id="13541401066" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2767042" lon="50.8689139"/>
  <node id="13541401067" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2767743" lon="50.8679922"/>
  <node id="13541401068" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2768575" lon="50.8672224"/>
@@ -667,24 +631,9 @@
  <node id="13541401079" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2779122" lon="50.8656074"/>
  <node id="13541401080" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2775638" lon="50.8575339"/>
  <node id="13541401081" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2775070" lon="50.8575742"/>
- <node id="13541401082" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2773667" lon="50.8580511"/>
- <node id="13541401083" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2773430" lon="50.8583301"/>
- <node id="13541401084" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2772436" lon="50.8584603"/>
- <node id="13541401085" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2771739" lon="50.8588504"/>
- <node id="13541401086" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2770543" lon="50.8593492"/>
  <node id="13541401087" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2770663" lon="50.8596111"/>
- <node id="13541401088" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2767163" lon="50.8615152"/>
  <node id="13541401089" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2765621" lon="50.8628856"/>
  <node id="13541401090" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2778722" lon="50.8571867"/>
- <node id="13541401091" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2781113" lon="50.8577735"/>
- <node id="13541401092" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2785754" lon="50.8596160"/>
- <node id="13541401093" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2801627" lon="50.8549503"/>
- <node id="13541401094" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2801768" lon="50.8552091"/>
- <node id="13541401095" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2801273" lon="50.8555332"/>
- <node id="13541401096" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2799507" lon="50.8558638"/>
- <node id="13541401097" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2796089" lon="50.8563178"/>
- <node id="13541401098" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2771602" lon="50.8589075"/>
- <node id="13541401099" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2766872" lon="50.8617739"/>
  <node id="13541401100" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2789635" lon="50.8630999"/>
  <node id="13541401101" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2795154" lon="50.8624371">
   <tag k="bus" v="yes"/>
@@ -700,48 +649,51 @@
  <node id="13541401105" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2794020" lon="50.8617537"/>
  <node id="13541401106" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2792969" lon="50.8620090"/>
  <node id="13541401107" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2791619" lon="50.8621536"/>
- <node id="13541401108" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2792641" lon="50.8620791"/>
- <node id="13541401109" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2792895" lon="50.8621297"/>
- <node id="13541401110" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2792419" lon="50.8621883"/>
- <node id="13541401111" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2792160" lon="50.8621417"/>
- <node id="13541401112" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2800927" lon="50.8626408"/>
- <node id="13541401113" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2800646" lon="50.8627490"/>
- <node id="13541401114" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2801229" lon="50.8627913"/>
- <node id="13541401115" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2801510" lon="50.8626831"/>
- <node id="13541401116" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2799334" lon="50.8633293"/>
- <node id="13541401117" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2799155" lon="50.8634030"/>
- <node id="13541401118" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2799921" lon="50.8634590"/>
- <node id="13541401119" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2800184" lon="50.8633478"/>
- <node id="13541401120" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2799770" lon="50.8633181"/>
- <node id="13541401121" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2799692" lon="50.8633454"/>
- <node id="13541401122" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2860849" lon="50.8600915"/>
- <node id="13541401123" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2861195" lon="50.8599770"/>
- <node id="13541401124" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2861604" lon="50.8600091"/>
- <node id="13541401125" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2861262" lon="50.8601259"/>
- <node id="13541401126" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2859957" lon="50.8604560"/>
- <node id="13541401127" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2859721" lon="50.8605301"/>
- <node id="13541401128" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2860249" lon="50.8605727"/>
- <node id="13541401129" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2860486" lon="50.8604957"/>
- <node id="13541401130" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2860583" lon="50.8601493"/>
- <node id="13541401131" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2860373" lon="50.8602307"/>
- <node id="13541401132" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2860991" lon="50.8602755"/>
- <node id="13541401133" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2861202" lon="50.8601941"/>
- <node id="13541401134" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2858710" lon="50.8602893"/>
- <node id="13541401135" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2858503" lon="50.8603732"/>
- <node id="13541401136" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2858151" lon="50.8603490"/>
- <node id="13541401137" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2858258" lon="50.8603059"/>
- <node id="13541401138" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2858076" lon="50.8602934"/>
- <node id="13541401139" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2858239" lon="50.8602271"/>
- <node id="13541401140" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2858620" lon="50.8602534"/>
- <node id="13541401141" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2858558" lon="50.8602788"/>
- <node id="13541401142" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2850370" lon="50.8632623"/>
- <node id="13541401143" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2850151" lon="50.8633444"/>
- <node id="13541401144" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2850929" lon="50.8634024"/>
- <node id="13541401145" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2851148" lon="50.8633202"/>
- <node id="13541401146" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2855491" lon="50.8625448"/>
- <node id="13541401147" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2855330" lon="50.8626169"/>
- <node id="13541401148" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2856180" lon="50.8626817"/>
- <node id="13541401149" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848" lat="53.2856338" lon="50.8626099"/>
+ <node id="13541401108" visible="true" version="2" changeset="178391050" timestamp="2026-02-11T06:33:45Z" user="Ксения Дубова" uid="23809848" lat="53.2792641" lon="50.8620790"/>
+ <node id="13541401109" visible="true" version="2" changeset="178391050" timestamp="2026-02-11T06:33:45Z" user="Ксения Дубова" uid="23809848" lat="53.2792884" lon="50.8621295"/>
+ <node id="13541401110" visible="true" version="2" changeset="178391050" timestamp="2026-02-11T06:33:45Z" user="Ксения Дубова" uid="23809848" lat="53.2792417" lon="50.8621924"/>
+ <node id="13541401111" visible="true" version="2" changeset="178391050" timestamp="2026-02-11T06:33:45Z" user="Ксения Дубова" uid="23809848" lat="53.2792174" lon="50.8621419"/>
+ <node id="13541401112" visible="true" version="2" changeset="178391050" timestamp="2026-02-11T06:33:45Z" user="Ксения Дубова" uid="23809848" lat="53.2800927" lon="50.8626408"/>
+ <node id="13541401113" visible="true" version="2" changeset="178391050" timestamp="2026-02-11T06:33:45Z" user="Ксения Дубова" uid="23809848" lat="53.2800646" lon="50.8627490"/>
+ <node id="13541401114" visible="true" version="2" changeset="178391050" timestamp="2026-02-11T06:33:45Z" user="Ксения Дубова" uid="23809848" lat="53.2801229" lon="50.8627913"/>
+ <node id="13541401115" visible="true" version="2" changeset="178391050" timestamp="2026-02-11T06:33:45Z" user="Ксения Дубова" uid="23809848" lat="53.2801510" lon="50.8626831"/>
+ <node id="13541401116" visible="true" version="2" changeset="178391050" timestamp="2026-02-11T06:33:45Z" user="Ксения Дубова" uid="23809848" lat="53.2799318" lon="50.8633235"/>
+ <node id="13541401117" visible="true" version="2" changeset="178391050" timestamp="2026-02-11T06:33:45Z" user="Ксения Дубова" uid="23809848" lat="53.2799121" lon="50.8634054"/>
+ <node id="13541401118" visible="true" version="2" changeset="178391050" timestamp="2026-02-11T06:33:45Z" user="Ксения Дубова" uid="23809848" lat="53.2799921" lon="50.8634591"/>
+ <node id="13541401119" visible="true" version="2" changeset="178391050" timestamp="2026-02-11T06:33:45Z" user="Ксения Дубова" uid="23809848" lat="53.2800189" lon="50.8633474"/>
+ <node id="13541401120" visible="true" version="2" changeset="178391050" timestamp="2026-02-11T06:33:45Z" user="Ксения Дубова" uid="23809848" lat="53.2799774" lon="50.8633196"/>
+ <node id="13541401121" visible="true" version="2" changeset="178391050" timestamp="2026-02-11T06:33:45Z" user="Ксения Дубова" uid="23809848" lat="53.2799703" lon="50.8633493"/>
+ <node id="13541401122" visible="true" version="2" changeset="178391050" timestamp="2026-02-11T06:33:45Z" user="Ксения Дубова" uid="23809848" lat="53.2860851" lon="50.8600914"/>
+ <node id="13541401123" visible="true" version="2" changeset="178391050" timestamp="2026-02-11T06:33:45Z" user="Ксения Дубова" uid="23809848" lat="53.2861192" lon="50.8599755"/>
+ <node id="13541401124" visible="true" version="2" changeset="178391050" timestamp="2026-02-11T06:33:45Z" user="Ксения Дубова" uid="23809848" lat="53.2861601" lon="50.8600092"/>
+ <node id="13541401125" visible="true" version="2" changeset="178391050" timestamp="2026-02-11T06:33:45Z" user="Ксения Дубова" uid="23809848" lat="53.2861260" lon="50.8601251"/>
+ <node id="13541401126" visible="true" version="2" changeset="178391050" timestamp="2026-02-11T06:33:45Z" user="Ксения Дубова" uid="23809848" lat="53.2859952" lon="50.8604533"/>
+ <node id="13541401127" visible="true" version="2" changeset="178391050" timestamp="2026-02-11T06:33:45Z" user="Ксения Дубова" uid="23809848" lat="53.2859726" lon="50.8605298"/>
+ <node id="13541401128" visible="true" version="2" changeset="178391050" timestamp="2026-02-11T06:33:45Z" user="Ксения Дубова" uid="23809848" lat="53.2860249" lon="50.8605729"/>
+ <node id="13541401129" visible="true" version="2" changeset="178391050" timestamp="2026-02-11T06:33:45Z" user="Ксения Дубова" uid="23809848" lat="53.2860474" lon="50.8604964"/>
+ <node id="13541401130" visible="true" version="2" changeset="178391050" timestamp="2026-02-11T06:33:45Z" user="Ксения Дубова" uid="23809848" lat="53.2860583" lon="50.8601493"/>
+ <node id="13541401131" visible="true" version="2" changeset="178391050" timestamp="2026-02-11T06:33:45Z" user="Ксения Дубова" uid="23809848" lat="53.2860373" lon="50.8602307"/>
+ <node id="13541401132" visible="true" version="2" changeset="178391050" timestamp="2026-02-11T06:33:45Z" user="Ксения Дубова" uid="23809848" lat="53.2860991" lon="50.8602755"/>
+ <node id="13541401133" visible="true" version="2" changeset="178391050" timestamp="2026-02-11T06:33:45Z" user="Ксения Дубова" uid="23809848" lat="53.2861202" lon="50.8601941"/>
+ <node id="13541401134" visible="true" version="2" changeset="178391050" timestamp="2026-02-11T06:33:45Z" user="Ксения Дубова" uid="23809848" lat="53.2858710" lon="50.8602893"/>
+ <node id="13541401135" visible="true" version="2" changeset="178391050" timestamp="2026-02-11T06:33:45Z" user="Ксения Дубова" uid="23809848" lat="53.2858503" lon="50.8603732"/>
+ <node id="13541401136" visible="true" version="2" changeset="178391050" timestamp="2026-02-11T06:33:45Z" user="Ксения Дубова" uid="23809848" lat="53.2858151" lon="50.8603490"/>
+ <node id="13541401137" visible="true" version="2" changeset="178391050" timestamp="2026-02-11T06:33:45Z" user="Ксения Дубова" uid="23809848" lat="53.2858257" lon="50.8603059"/>
+ <node id="13541401138" visible="true" version="2" changeset="178391050" timestamp="2026-02-11T06:33:45Z" user="Ксения Дубова" uid="23809848" lat="53.2858076" lon="50.8602934"/>
+ <node id="13541401139" visible="true" version="2" changeset="178391050" timestamp="2026-02-11T06:33:45Z" user="Ксения Дубова" uid="23809848" lat="53.2858239" lon="50.8602271"/>
+ <node id="13541401140" visible="true" version="2" changeset="178391050" timestamp="2026-02-11T06:33:45Z" user="Ксения Дубова" uid="23809848" lat="53.2858620" lon="50.8602534"/>
+ <node id="13541401141" visible="true" version="2" changeset="178391050" timestamp="2026-02-11T06:33:45Z" user="Ксения Дубова" uid="23809848" lat="53.2858558" lon="50.8602788"/>
+ <node id="13541401142" visible="true" version="2" changeset="178391050" timestamp="2026-02-11T06:33:45Z" user="Ксения Дубова" uid="23809848" lat="53.2850370" lon="50.8632622"/>
+ <node id="13541401143" visible="true" version="2" changeset="178391050" timestamp="2026-02-11T06:33:45Z" user="Ксения Дубова" uid="23809848" lat="53.2850151" lon="50.8633444"/>
+ <node id="13541401144" visible="true" version="2" changeset="178391050" timestamp="2026-02-11T06:33:45Z" user="Ксения Дубова" uid="23809848" lat="53.2850929" lon="50.8634024"/>
+ <node id="13541401145" visible="true" version="2" changeset="178391050" timestamp="2026-02-11T06:33:45Z" user="Ксения Дубова" uid="23809848" lat="53.2851148" lon="50.8633202"/>
+ <node id="13541401146" visible="true" version="2" changeset="178391050" timestamp="2026-02-11T06:33:45Z" user="Ксения Дубова" uid="23809848" lat="53.2855497" lon="50.8625473"/>
+ <node id="13541401147" visible="true" version="2" changeset="178391050" timestamp="2026-02-11T06:33:45Z" user="Ксения Дубова" uid="23809848" lat="53.2855317" lon="50.8626178"/>
+ <node id="13541401148" visible="true" version="2" changeset="178391050" timestamp="2026-02-11T06:33:45Z" user="Ксения Дубова" uid="23809848" lat="53.2856174" lon="50.8626792"/>
+ <node id="13541401149" visible="true" version="2" changeset="178391050" timestamp="2026-02-11T06:33:45Z" user="Ксения Дубова" uid="23809848" lat="53.2856354" lon="50.8626088"/>
+ <node id="13542486961" visible="true" version="1" changeset="178391050" timestamp="2026-02-11T06:33:45Z" user="Ксения Дубова" uid="23809848" lat="53.2869201" lon="50.8574532"/>
+ <node id="13542486962" visible="true" version="1" changeset="178391050" timestamp="2026-02-11T06:33:45Z" user="Ксения Дубова" uid="23809848" lat="53.2868569" lon="50.8572344"/>
+ <node id="13542486963" visible="true" version="1" changeset="178391050" timestamp="2026-02-11T06:33:45Z" user="Ксения Дубова" uid="23809848" lat="53.2762197" lon="50.8588217"/>
  <way id="90521222" visible="true" version="11" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848">
   <nd ref="1050165057"/>
   <nd ref="6575656447"/>
@@ -1080,9 +1032,8 @@
   <nd ref="5158444764"/>
   <tag k="landuse" v="residential"/>
  </way>
- <way id="570621404" visible="true" version="7" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848">
+ <way id="570621404" visible="true" version="8" changeset="178391050" timestamp="2026-02-11T06:33:45Z" user="Ксения Дубова" uid="23809848">
   <nd ref="1050164816"/>
-  <nd ref="9345553399"/>
   <nd ref="13541401087"/>
   <nd ref="2999650089"/>
   <nd ref="9345560281"/>
@@ -1094,7 +1045,7 @@
   <tag k="name" v="Дачная улица"/>
   <tag k="surface" v="asphalt"/>
  </way>
- <way id="702639682" visible="true" version="2" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848">
+ <way id="702639682" visible="true" version="3" changeset="178391050" timestamp="2026-02-11T06:33:45Z" user="Ксения Дубова" uid="23809848">
   <nd ref="5158444464"/>
   <nd ref="5158444451"/>
   <nd ref="13541401060"/>
@@ -1113,6 +1064,7 @@
   <nd ref="5158444461"/>
   <nd ref="5158444462"/>
   <tag k="highway" v="track"/>
+  <tag k="surface" v="ground"/>
  </way>
  <way id="702639683" visible="true" version="8" changeset="162054996" timestamp="2025-02-02T17:04:27Z" user="skysamum" uid="1517841">
   <nd ref="6598452051"/>
@@ -1124,6 +1076,19 @@
   <tag k="highway" v="residential"/>
   <tag k="name" v="Песчаная улица"/>
   <tag k="surface" v="unpaved"/>
+ </way>
+ <way id="702639712" visible="true" version="2" changeset="169652256" timestamp="2025-07-29T06:40:59Z" user="desk77" uid="3417100">
+  <nd ref="6598472488"/>
+  <nd ref="6598472489"/>
+  <nd ref="6598472490"/>
+  <nd ref="6598472491"/>
+  <nd ref="6598472492"/>
+  <nd ref="6598472493"/>
+  <nd ref="6598472488"/>
+  <tag k="addr:housenumber" v="112"/>
+  <tag k="addr:street" v="Центральная улица"/>
+  <tag k="building" v="yes"/>
+  <tag k="source:addr" v="ЕГРН"/>
  </way>
  <way id="702639715" visible="true" version="1" changeset="72045092" timestamp="2019-07-09T09:05:50Z" user="lamax" uid="1860634">
   <nd ref="6598472504"/>
@@ -1146,7 +1111,7 @@
   <nd ref="6598472513"/>
   <tag k="building" v="yes"/>
  </way>
- <way id="702639733" visible="true" version="10" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848">
+ <way id="702639733" visible="true" version="11" changeset="178391050" timestamp="2026-02-11T06:33:45Z" user="Ксения Дубова" uid="23809848">
   <nd ref="6598472619"/>
   <nd ref="6598472620"/>
   <nd ref="9345557412"/>
@@ -1158,6 +1123,7 @@
   <nd ref="6598472625"/>
   <nd ref="6598472626"/>
   <nd ref="13541398664"/>
+  <nd ref="13542486962"/>
   <nd ref="13541398666"/>
   <nd ref="13541398665"/>
   <nd ref="6598452051"/>
@@ -1560,40 +1526,6 @@
   <tag k="addr:street" v="5-я улица"/>
   <tag k="building" v="yes"/>
  </way>
- <way id="1476249582" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848">
-  <nd ref="13541398666"/>
-  <nd ref="13541401065"/>
-  <nd ref="13541398671"/>
-  <nd ref="13541398672"/>
-  <nd ref="13541398667"/>
-  <nd ref="13541398668"/>
-  <nd ref="13541398669"/>
-  <nd ref="5158410135"/>
-  <tag k="highway" v="unclassified"/>
-  <tag k="lanes" v="1"/>
-  <tag k="surface" v="ground"/>
- </way>
- <way id="1476249583" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848">
-  <nd ref="13541398670"/>
-  <nd ref="13541398674"/>
-  <nd ref="13541398665"/>
-  <nd ref="13541398673"/>
-  <nd ref="13541398672"/>
-  <tag k="highway" v="path"/>
-  <tag k="surface" v="ground"/>
- </way>
- <way id="1476249584" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848">
-  <nd ref="13541398667"/>
-  <nd ref="13541398679"/>
-  <nd ref="13541398675"/>
-  <nd ref="13541398676"/>
-  <nd ref="13541398678"/>
-  <nd ref="13541398680"/>
-  <nd ref="13541398677"/>
-  <tag k="highway" v="unclassified"/>
-  <tag k="lanes" v="1"/>
-  <tag k="surface" v="ground"/>
- </way>
  <way id="1476249585" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848">
   <nd ref="13541398681"/>
   <nd ref="13541398682"/>
@@ -1645,90 +1577,19 @@
   <tag k="lanes" v="1"/>
   <tag k="surface" v="ground"/>
  </way>
- <way id="1476249586" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848">
-  <nd ref="13541401026"/>
-  <nd ref="13541401027"/>
-  <nd ref="13541401028"/>
-  <nd ref="13541401029"/>
-  <nd ref="13541401030"/>
-  <nd ref="13541401031"/>
-  <nd ref="13541401032"/>
-  <nd ref="13541401033"/>
-  <nd ref="13541401034"/>
-  <nd ref="13541401035"/>
-  <nd ref="13541401036"/>
-  <nd ref="13541401037"/>
-  <nd ref="13541401046"/>
-  <nd ref="13541401038"/>
-  <nd ref="13541401047"/>
-  <nd ref="13541401039"/>
-  <nd ref="13541401040"/>
-  <nd ref="2999650103"/>
-  <nd ref="13541401041"/>
-  <nd ref="13541401042"/>
-  <nd ref="13541401043"/>
-  <nd ref="13541401052"/>
-  <nd ref="13541401044"/>
-  <nd ref="13541401045"/>
-  <tag k="highway" v="unclassified"/>
-  <tag k="lanes" v="1"/>
-  <tag k="surface" v="ground"/>
- </way>
- <way id="1476249587" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848">
-  <nd ref="13541401039"/>
-  <nd ref="13541401053"/>
-  <nd ref="13541401048"/>
-  <nd ref="13541401049"/>
-  <nd ref="13541401050"/>
-  <nd ref="13541401051"/>
-  <nd ref="13541401055"/>
-  <nd ref="13541401052"/>
-  <tag k="highway" v="unclassified"/>
-  <tag k="lanes" v="1"/>
-  <tag k="surface" v="ground"/>
- </way>
- <way id="1476249588" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848">
-  <nd ref="13541401054"/>
-  <nd ref="13541401055"/>
-  <tag k="highway" v="unclassified"/>
-  <tag k="lanes" v="1"/>
-  <tag k="surface" v="ground"/>
- </way>
- <way id="1476249589" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848">
-  <nd ref="13541401037"/>
-  <nd ref="13541401058"/>
-  <nd ref="13541401056"/>
-  <nd ref="13541401057"/>
-  <nd ref="13541401023"/>
-  <tag k="highway" v="unclassified"/>
-  <tag k="lanes" v="1"/>
-  <tag k="surface" v="ground"/>
- </way>
- <way id="1476249590" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848">
-  <nd ref="5158444460"/>
-  <nd ref="13541401059"/>
-  <tag k="highway" v="unclassified"/>
-  <tag k="lanes" v="1"/>
-  <tag k="surface" v="ground"/>
- </way>
- <way id="1476249591" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848">
+ <way id="1476249591" visible="true" version="2" changeset="178391050" timestamp="2026-02-11T06:33:45Z" user="Ксения Дубова" uid="23809848">
   <nd ref="13541401060"/>
   <nd ref="13541401061"/>
   <nd ref="13541401063"/>
   <nd ref="13541401062"/>
   <nd ref="13541398667"/>
+  <nd ref="13542486961"/>
+  <nd ref="13542486962"/>
   <tag k="highway" v="unclassified"/>
   <tag k="lanes" v="1"/>
   <tag k="surface" v="ground"/>
  </way>
- <way id="1476249592" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848">
-  <nd ref="13541401064"/>
-  <nd ref="13541401065"/>
-  <tag k="highway" v="unclassified"/>
-  <tag k="lanes" v="1"/>
-  <tag k="surface" v="ground"/>
- </way>
- <way id="1476249593" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848">
+ <way id="1476249593" visible="true" version="2" changeset="178391050" timestamp="2026-02-11T06:33:45Z" user="Ксения Дубова" uid="23809848">
   <nd ref="6601794868"/>
   <nd ref="13541401066"/>
   <nd ref="13541401067"/>
@@ -1744,52 +1605,8 @@
   <nd ref="13541401076"/>
   <nd ref="13541401077"/>
   <nd ref="13541401078"/>
-  <nd ref="9345553399"/>
-  <tag k="highway" v="unclassified"/>
-  <tag k="lanes" v="1"/>
-  <tag k="surface" v="ground"/>
- </way>
- <way id="1476249594" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848">
-  <nd ref="13541401079"/>
-  <nd ref="13541401068"/>
-  <tag k="highway" v="unclassified"/>
-  <tag k="lanes" v="1"/>
-  <tag k="surface" v="ground"/>
- </way>
- <way id="1476249595" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848">
-  <nd ref="13541401081"/>
-  <nd ref="13541401082"/>
-  <nd ref="13541401083"/>
-  <nd ref="13541401084"/>
-  <nd ref="13541401085"/>
-  <nd ref="13541401098"/>
-  <nd ref="13541401086"/>
-  <nd ref="13541401087"/>
-  <nd ref="13541401088"/>
-  <nd ref="13541401099"/>
-  <nd ref="13541401089"/>
-  <tag k="highway" v="unclassified"/>
-  <tag k="lanes" v="1"/>
-  <tag k="surface" v="ground"/>
- </way>
- <way id="1476249596" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848">
-  <nd ref="13541401090"/>
-  <nd ref="13541401091"/>
-  <nd ref="13541401092"/>
-  <nd ref="6601800618"/>
-  <tag k="highway" v="unclassified"/>
-  <tag k="lanes" v="1"/>
-  <tag k="surface" v="ground"/>
- </way>
- <way id="1476249597" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848">
-  <nd ref="6598472619"/>
-  <nd ref="13541401093"/>
-  <nd ref="13541401094"/>
-  <nd ref="13541401095"/>
-  <nd ref="13541401096"/>
-  <nd ref="13541401097"/>
-  <nd ref="13541401091"/>
-  <nd ref="13541401098"/>
+  <nd ref="13542486963"/>
+  <nd ref="1050164816"/>
   <tag k="highway" v="unclassified"/>
   <tag k="lanes" v="1"/>
   <tag k="surface" v="ground"/>
@@ -1807,14 +1624,14 @@
   <tag k="amenity" v="marketplace"/>
   <tag k="name" v="Дачный рынок"/>
  </way>
- <way id="1476249599" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848">
+ <way id="1476249599" visible="true" version="2" changeset="178391050" timestamp="2026-02-11T06:33:45Z" user="Ксения Дубова" uid="23809848">
   <nd ref="13541401108"/>
   <nd ref="13541401109"/>
   <nd ref="13541401110"/>
   <nd ref="13541401111"/>
   <nd ref="13541401108"/>
   <tag k="addr:city" v="Покровка"/>
-  <tag k="addr:housenumber" v="1-2А"/>
+  <tag k="addr:housenumber" v="2 А"/>
   <tag k="addr:street" v="Дачная улица"/>
   <tag k="building" v="yes"/>
   <tag k="name" v="Продкутовый магазин"/>
@@ -1829,18 +1646,19 @@
   <tag k="name" v="0-ая линия"/>
   <tag k="surface" v="ground"/>
  </way>
- <way id="1476249601" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848">
+ <way id="1476249601" visible="true" version="2" changeset="178391050" timestamp="2026-02-11T06:33:45Z" user="Ксения Дубова" uid="23809848">
   <nd ref="13541401112"/>
   <nd ref="13541401113"/>
   <nd ref="13541401114"/>
   <nd ref="13541401115"/>
   <nd ref="13541401112"/>
   <tag k="addr:housenumber" v="30"/>
+  <tag k="addr:place" v="СНТ &quot;Прогресс&quot;"/>
   <tag k="addr:street" v="1-ая линия"/>
   <tag k="building" v="house"/>
   <tag k="building:levels" v="2"/>
  </way>
- <way id="1476249602" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848">
+ <way id="1476249602" visible="true" version="2" changeset="178391050" timestamp="2026-02-11T06:33:45Z" user="Ксения Дубова" uid="23809848">
   <nd ref="13541401116"/>
   <nd ref="13541401117"/>
   <nd ref="13541401118"/>
@@ -1849,6 +1667,7 @@
   <nd ref="13541401121"/>
   <nd ref="13541401116"/>
   <tag k="addr:housenumber" v="34"/>
+  <tag k="addr:place" v="СНТ &quot;Прогресс&quot;"/>
   <tag k="addr:street" v="1-ая линия"/>
   <tag k="building" v="house"/>
   <tag k="building:levels" v="2"/>
@@ -1864,29 +1683,31 @@
   <tag k="building" v="house"/>
   <tag k="building:levels" v="2"/>
  </way>
- <way id="1476249604" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848">
+ <way id="1476249604" visible="true" version="2" changeset="178391050" timestamp="2026-02-11T06:33:45Z" user="Ксения Дубова" uid="23809848">
   <nd ref="13541401126"/>
   <nd ref="13541401127"/>
   <nd ref="13541401128"/>
   <nd ref="13541401129"/>
   <nd ref="13541401126"/>
   <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:place" v="СНТ &quot;Прогресс&quot;"/>
   <tag k="addr:street" v="9-ая линия"/>
   <tag k="building" v="house"/>
   <tag k="building:levels" v="1"/>
  </way>
- <way id="1476249605" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848">
+ <way id="1476249605" visible="true" version="2" changeset="178391050" timestamp="2026-02-11T06:33:45Z" user="Ксения Дубова" uid="23809848">
   <nd ref="13541401130"/>
   <nd ref="13541401131"/>
   <nd ref="13541401132"/>
   <nd ref="13541401133"/>
   <nd ref="13541401130"/>
   <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:place" v="СНТ &quot;Прогресс&quot;"/>
   <tag k="addr:street" v="9-ая линия"/>
   <tag k="building" v="house"/>
   <tag k="building:levels" v="2"/>
  </way>
- <way id="1476249606" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848">
+ <way id="1476249606" visible="true" version="2" changeset="178391050" timestamp="2026-02-11T06:33:45Z" user="Ксения Дубова" uid="23809848">
   <nd ref="13541401134"/>
   <nd ref="13541401135"/>
   <nd ref="13541401136"/>
@@ -1897,28 +1718,31 @@
   <nd ref="13541401141"/>
   <nd ref="13541401134"/>
   <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:place" v="СНТ &quot;Прогресс&quot;"/>
   <tag k="addr:street" v="9-ая линия"/>
   <tag k="building" v="house"/>
   <tag k="building:levels" v="1"/>
  </way>
- <way id="1476249607" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848">
+ <way id="1476249607" visible="true" version="2" changeset="178391050" timestamp="2026-02-11T06:33:45Z" user="Ксения Дубова" uid="23809848">
   <nd ref="13541401142"/>
   <nd ref="13541401143"/>
   <nd ref="13541401144"/>
   <nd ref="13541401145"/>
   <nd ref="13541401142"/>
   <tag k="addr:housenumber" v="27"/>
+  <tag k="addr:place" v="СНТ &quot;Прогресс&quot;"/>
   <tag k="addr:street" v="9-ая линия"/>
   <tag k="building" v="house"/>
   <tag k="building:levels" v="2"/>
  </way>
- <way id="1476249608" visible="true" version="1" changeset="178371168" timestamp="2026-02-10T17:32:33Z" user="Ксения Дубова" uid="23809848">
+ <way id="1476249608" visible="true" version="2" changeset="178391050" timestamp="2026-02-11T06:33:45Z" user="Ксения Дубова" uid="23809848">
   <nd ref="13541401146"/>
   <nd ref="13541401147"/>
   <nd ref="13541401148"/>
   <nd ref="13541401149"/>
   <nd ref="13541401146"/>
-  <tag k="addr:housenumber" v="26"/>
+  <tag k="addr:housenumber" v="20"/>
+  <tag k="addr:place" v="СНТ &quot;Прогресс&quot;"/>
   <tag k="addr:street" v="9-ая линия"/>
   <tag k="building" v="house"/>
   <tag k="building:levels" v="2"/>

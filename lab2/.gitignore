@@ -3,3 +3,5 @@
 map.sql
 geoserver_data/security/
 geoserver_data/tomcat_pass.txt
+geoserver_data/logs/
+client/.vscode/

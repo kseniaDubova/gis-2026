@@ -16,8 +16,10 @@ import VectorSource from 'ol/source/Vector'
 import GeoJSON from 'ol/format/GeoJSON'
 import XYZ from 'ol/source/XYZ'
 import { fromLonLat } from 'ol/proj'
+import ImageLayer from 'ol/layer/Image'
+import ImageWMS from 'ol/source/ImageWMS'
 
-import { Style, Fill, Stroke } from 'ol/style'
+import { applyStyle } from 'ol-mapbox-style'
 
 onMounted(() => {
 
@@ -27,25 +29,44 @@ onMounted(() => {
     })
   })
 
-  const getStyle = (feature) => {
-    const type = feature.get('source_type')
-
-    let color = 'gray'
-
-    if (type === 'my') color = 'green'
-    else if (type === 'osm') color = 'blue'
-    else if (type === 'ml') color = 'orange'
-
-    return new Style({
-      fill: new Fill({
-        color: color
-      }),
-      stroke: new Stroke({
-        color: '#333',
-        width: 1
-      })
+  const buildingsLayer = new ImageLayer({
+    source: new ImageWMS({
+      url: 'http://localhost:8080/geoserver/gis/wms',
+      params: {
+        LAYERS: 'gis:buildings',
+        TILED: true,
+        TRANSPARENT: true
+      },
+      ratio: 1,
+      serverType: 'geoserver'
     })
-  }
+  })
+
+  const roadsLayer = new ImageLayer({
+    source: new ImageWMS({
+      url: 'http://localhost:8080/geoserver/gis/wms',
+      params: {
+        LAYERS: 'gis:roads',
+        TILED: true,
+        TRANSPARENT: true
+      },
+      ratio: 1,
+      serverType: 'geoserver'
+    })
+  })
+
+  const poisLayer = new ImageLayer({
+    source: new ImageWMS({
+      url: 'http://localhost:8080/geoserver/gis/wms',
+      params: {
+        LAYERS: 'gis:poi',
+        TILED: true,
+        TRANSPARENT: true
+      },
+      ratio: 1,
+      serverType: 'geoserver'
+    })
+  })
 
   const overtureLayer = new VectorLayer({
     source: new VectorSource({
@@ -54,15 +75,46 @@ onMounted(() => {
         dataProjection: 'EPSG:4326',
         featureProjection: 'EPSG:3857'
       })
-    }),
-    style: getStyle
+    })
   })
+
+  const style = {
+    version: 8,
+    sources: {
+      overture: {
+        type: "geojson",
+        data: "/overture.geojson"
+      }
+    },
+    layers: [
+      {
+        id: "buildings",
+        type: "fill",
+        source: "overture",
+        paint: {
+          "fill-color": [
+            "match",
+            ["get", "source_type"],
+            "my", "#00FF00",
+            "osm", "#0000FF",
+            "ml", "#FFA500",
+            "#CCCCCC"
+          ],
+          "fill-opacity": 0.7,
+          "fill-outline-color": "#333333"
+        }
+      }
+    ]
+  }
 
   const map = new Map({
     target: 'map',
     layers: [
       baseLayer,
-      overtureLayer
+      roadsLayer,
+      poisLayer,
+      buildingsLayer,
+      overtureLayer  
     ],
     view: new View({
       center: fromLonLat([50.85, 53.28]),
@@ -70,8 +122,11 @@ onMounted(() => {
     })
   })
 
+  applyStyle(overtureLayer, style, 'overture')
+
 })
 </script>
+
 <style>
 #map {
   width: 100%;

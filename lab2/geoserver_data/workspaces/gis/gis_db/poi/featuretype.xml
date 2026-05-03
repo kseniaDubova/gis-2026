@@ -1,5 +1,5 @@
 <featureType>
-  <id>FeatureTypeInfoImpl--4ab1604a:19cf1a7ca1f:-7ff1</id>
+  <id>FeatureTypeInfoImpl-41fffb89:19ded10e5f1:-7ff9</id>
   <name>poi</name>
   <nativeName>poi</nativeName>
   <namespace>
@@ -37,10 +37,12 @@
   <projectionPolicy>FORCE_DECLARED</projectionPolicy>
   <enabled>true</enabled>
   <store class="dataStore">
-    <id>DataStoreInfoImpl--4ab1604a:19cf1a7ca1f:-7ff4</id>
+    <id>DataStoreInfoImpl-41fffb89:19ded10e5f1:-7ffc</id>
   </store>
   <serviceConfiguration>false</serviceConfiguration>
   <simpleConversionEnabled>false</simpleConversionEnabled>
+  <internationalTitle/>
+  <internationalAbstract/>
   <maxFeatures>0</maxFeatures>
   <numDecimals>0</numDecimals>
   <padWithZeros>false</padWithZeros>

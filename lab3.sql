@@ -34,15 +34,17 @@ AND bbox.ymax >= 53.2567737;
 ALTER TABLE overture_buildings_polygons
 ADD COLUMN source_type TEXT;
 
-UPDATE overture_buildings_polygons
+UPDATE overture_buildings_polygons ob
 SET source_type = 'my'
 WHERE EXISTS (
-SELECT 1
-FROM geo_data gd
-WHERE ST_Intersects(
-overture_buildings_polygons.geometry,
-gd.geom
-)
+    SELECT 1
+    FROM geo_data gd
+    WHERE gd.user = 'Ксения Дубова'
+        AND ST_Contains(
+            gd.geom,
+            ST_Centroid(ob.geometry)
+        )
+        AND ST_Area(gd.geom) < 0.000001
 );
 
 UPDATE overture_buildings_polygons

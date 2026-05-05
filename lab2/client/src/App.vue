@@ -18,6 +18,7 @@ import XYZ from 'ol/source/XYZ'
 import { fromLonLat } from 'ol/proj'
 import ImageLayer from 'ol/layer/Image'
 import ImageWMS from 'ol/source/ImageWMS'
+import { STYLE } from './assets/style'
 
 import { applyStyle } from 'ol-mapbox-style'
 
@@ -78,35 +79,6 @@ onMounted(() => {
     })
   })
 
-  const style = {
-    version: 8,
-    sources: {
-      overture: {
-        type: "geojson",
-        data: "/overture.geojson"
-      }
-    },
-    layers: [
-      {
-        id: "buildings",
-        type: "fill",
-        source: "overture",
-        paint: {
-          "fill-color": [
-            "match",
-            ["get", "source_type"],
-            "my", "#00FF00",
-            "osm", "#0000FF",
-            "ml", "#FFA500",
-            "#CCCCCC"
-          ],
-          "fill-opacity": 0.7,
-          "fill-outline-color": "#333333"
-        }
-      }
-    ]
-  }
-
   const map = new Map({
     target: 'map',
     layers: [
@@ -122,7 +94,7 @@ onMounted(() => {
     })
   })
 
-  applyStyle(overtureLayer, style, 'overture')
+  applyStyle(overtureLayer, STYLE, 'overture')
 
 })
 </script>
